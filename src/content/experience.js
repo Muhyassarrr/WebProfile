@@ -1,0 +1,66 @@
+export const experience = [
+  {
+    id: "it-staff-dp3appkb",
+    placeholder: false,
+    company: "DP3APPKB",
+    companyUrl: null,
+    role: { id: "IT Staff", en: "IT Staff" },
+    employmentType: null,
+    location: "Surabaya, Indonesia",
+    remote: false,
+    startDate: "2025-04",
+    endDate: "2026-06",
+    current: false,
+    summary: {
+      id: "Mendukung operasional TI melalui instalasi, konfigurasi, troubleshooting, maintenance, dan dukungan teknis pengguna.",
+      en: "Supported IT operations through installation, configuration, troubleshooting, maintenance, and user technical support.",
+    },
+    responsibilities: {
+      id: [
+        "Mendukung operasional TI melalui instalasi, konfigurasi, troubleshooting, maintenance, dan user technical support.",
+        "Membantu pembaruan sistem, praktik keamanan data, serta implementasi solusi TI untuk meningkatkan keandalan operasional.",
+      ],
+      en: [
+        "Supported IT operations through installation, configuration, troubleshooting, maintenance, and user technical support.",
+        "Assisted system updates, data-security practices, and implementation of IT solutions to improve operational reliability.",
+      ],
+    },
+    achievements: { id: [], en: [] },
+    measurableOutcomes: { id: [], en: [] },
+    technologies: ["IT Operations", "Troubleshooting", "System Maintenance", "Technical Support"],
+    relatedProjectSlug: null,
+  },
+  {
+    id: "full-stack-developer-winnicode",
+    placeholder: false,
+    company: "PT. Winnicode Garuda Teknologi",
+    companyUrl: null,
+    role: { id: "Full Stack Developer", en: "Full Stack Developer" },
+    employmentType: null,
+    location: "Bandung, Indonesia",
+    remote: true,
+    startDate: "2025-02",
+    endDate: "2025-07",
+    current: false,
+    summary: {
+      id: "Mengembangkan dan memelihara aplikasi web Laravel, PHP, dan MySQL berdasarkan kebutuhan pengguna dan bisnis dalam lingkungan kerja remote.",
+      en: "Developed and maintained Laravel, PHP, and MySQL web applications based on user and business requirements in a remote work setting.",
+    },
+    responsibilities: {
+      id: [
+        "Mengembangkan dan memelihara aplikasi web Laravel/PHP/MySQL berdasarkan kebutuhan pengguna dan bisnis.",
+        "Mengimplementasikan fitur front-end dan back-end, integrasi database, authentication, serta fungsi data management.",
+        "Berkolaborasi pada requirements analysis, development, testing, dan implementation untuk mendukung delivery yang andal.",
+      ],
+      en: [
+        "Developed and maintained Laravel/PHP/MySQL web applications based on user and business requirements.",
+        "Implemented front-end and back-end features, database integration, authentication, and data-management functionality.",
+        "Collaborated on requirements analysis, development, testing, and implementation to ensure reliable delivery.",
+      ],
+    },
+    achievements: { id: [], en: [] },
+    measurableOutcomes: { id: [], en: [] },
+    technologies: ["Laravel", "PHP", "MySQL", "JavaScript", "HTML", "CSS"],
+    relatedProjectSlug: "employee-attendance-system",
+  },
+];

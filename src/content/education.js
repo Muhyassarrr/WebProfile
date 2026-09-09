@@ -1,0 +1,20 @@
+export const education = [
+  {
+    id: "upn-veteran-jawa-timur-informatics",
+    placeholder: false,
+    institution: "Universitas Pembangunan Nasional \"Veteran\" Jawa Timur",
+    institutionUrl: null,
+    degree: { id: "Sarjana Informatika", en: "Bachelor of Informatics" },
+    field: { id: "Informatika", en: "Informatics" },
+    location: "Surabaya, Indonesia",
+    startDate: "2022",
+    endDate: "2026",
+    current: false,
+    gpa: "3.81 / 4.00",
+    thesis: null,
+    honors: { id: [], en: [] },
+    relevantCoursework: { id: [], en: [] },
+    activities: { id: [], en: [] },
+    achievements: { id: [], en: [] },
+  },
+];

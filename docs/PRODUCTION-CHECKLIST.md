@@ -1,0 +1,52 @@
+# Production Checklist
+
+- [ ] Search entire repository for `REPLACE_ME`.
+- [ ] Replace identity.
+- [ ] Set production domain.
+- [ ] Replace email.
+- [ ] Replace GitHub URL.
+- [ ] Replace LinkedIn URL.
+- [ ] Add/replace resume.
+- [ ] Replace profile photo.
+- [ ] Replace placeholder experience with factual experience.
+- [ ] Replace placeholder education with factual education.
+- [ ] Replace placeholder skills with factual skills.
+- [ ] Replace all placeholder projects with real projects.
+- [ ] Add real project screenshots.
+- [ ] Add real project links only when they exist.
+- [ ] Add certifications only when real/verified.
+- [ ] Replace favicon/icon/Apple icon.
+- [ ] Replace default OG image.
+- [ ] Add project OG images where useful.
+- [ ] Configure Google Search Console.
+- [ ] Submit sitemap.
+- [ ] Run `npm install`.
+- [ ] Run `npm run lint`.
+- [ ] Run `npm run build`.
+- [ ] Run `npm run start` and inspect production output.
+- [ ] Responsive QA at 320px.
+- [ ] Responsive QA at 360px.
+- [ ] Responsive QA at 390px.
+- [ ] Responsive QA at 430px.
+- [ ] Tablet QA.
+- [ ] Laptop QA.
+- [ ] Desktop QA.
+- [ ] Wide desktop QA.
+- [ ] Bahasa Indonesia content QA.
+- [ ] English content QA.
+- [ ] Light theme QA.
+- [ ] Dark theme QA.
+- [ ] System theme QA, including OS theme change while page is open.
+- [ ] Keyboard accessibility QA.
+- [ ] Screen-reader landmark/heading QA.
+- [ ] Reduced-motion QA.
+- [ ] Metadata QA on representative pages.
+- [ ] Canonical QA.
+- [ ] Hreflang + x-default QA.
+- [ ] Broken internal/external link QA.
+- [ ] JSON-LD validation.
+- [ ] Sitemap returns production absolute URLs.
+- [ ] Robots returns production sitemap URL.
+- [ ] Production deployment completed.
+- [ ] Post-deployment Lighthouse/PageSpeed check.
+- [ ] Search Console URL inspection on `/id`, `/en`, and a project case study.

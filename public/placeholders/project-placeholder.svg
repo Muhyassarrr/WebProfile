@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Project image placeholder</title>
+  <desc id="desc">Replace this placeholder with a real project screenshot.</desc>
+  <rect width="1200" height="750" fill="#e9eae5"/>
+  <rect x="72" y="72" width="1056" height="606" rx="36" fill="#f8f8f5" stroke="#c8cbc4" stroke-width="3"/>
+  <path d="M120 162h530M120 220h350M120 516h960" stroke="#c8cbc4" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="974" cy="196" r="80" fill="#dbe5ff"/>
+  <text x="120" y="370" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#2b2f2b">REPLACE_ME_PROJECT_IMAGE</text>
+  <text x="120" y="430" font-family="Arial, sans-serif" font-size="28" fill="#676d66">Use a real screenshot before production.</text>
+</svg>

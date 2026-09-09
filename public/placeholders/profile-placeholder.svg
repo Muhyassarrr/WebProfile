@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">Profile image placeholder</title>
+  <desc id="desc">Replace this placeholder with the portfolio owner's professional photo.</desc>
+  <rect width="720" height="900" fill="#e9eae5"/>
+  <circle cx="360" cy="300" r="120" fill="#cfd3cb"/>
+  <path d="M145 760c20-178 105-265 215-265s195 87 215 265" fill="#cfd3cb"/>
+  <text x="360" y="825" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#424742">REPLACE_ME_PROFILE_IMAGE</text>
+</svg>
