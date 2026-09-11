@@ -79,13 +79,13 @@ const id = {
   },
   projects: {
     eyebrow: "Portfolio",
-    title: "Projects & Case Studies",
-    description: "Setiap proyek diperlakukan sebagai studi kasus profesional, bukan sekadar kartu showcase.",
+    title: "Proyek & Studi Kasus",
+    description: "",
   },
   experience: {
     eyebrow: "Karier",
     title: "Pengalaman Profesional",
-    description: "Peran, tanggung jawab, pencapaian, hasil terukur, dan konteks teknologi disimpan sebagai content terstruktur.",
+    description: "",
     responsibilities: "Tanggung Jawab",
     achievements: "Pencapaian",
     outcomes: "Hasil Terukur",
@@ -93,7 +93,7 @@ const id = {
   education: {
     eyebrow: "Latar Belakang",
     title: "Pendidikan",
-    description: "Riwayat pendidikan, tesis, penghargaan, mata kuliah relevan, kegiatan, dan pencapaian.",
+    description: "",
     thesis: "Tesis",
     honors: "Penghargaan",
     coursework: "Mata Kuliah Relevan",
@@ -104,19 +104,19 @@ const id = {
   skills: {
     eyebrow: "Kapabilitas",
     title: "Keahlian Teknis",
-    description: "Keahlian dikelompokkan berdasarkan domain tanpa persentase proficiency yang tidak terukur.",
+    description: "",
   },
   certifications: {
     eyebrow: "Validasi Kompetensi",
     title: "Sertifikasi",
-    description: "Sertifikasi dan pelatihan profesional ditampilkan bersama issuer, periode berlaku atau durasi, dan skill terkait jika tersedia.",
+    description: "",
     emptyTitle: "Belum ada sertifikasi yang dipublikasikan.",
     emptyBody: "Tambahkan data asli di src/content/certifications.js. Empty state ini sengaja tidak mengarang credential.",
   },
   contact: {
     eyebrow: "Kontak",
     title: "Mari terhubung.",
-    description: "Portfolio ini tidak menggunakan form backend. Kontak diarahkan ke kanal langsung yang dikonfigurasi oleh pemilik portfolio.",
+    description: "",
     directTitle: "Kanal Kontak",
     availability: "Ketersediaan",
     workMode: "Mode Kerja Pilihan",
@@ -244,7 +244,7 @@ const en = {
   projects: {
     eyebrow: "Portfolio",
     title: "Projects & Case Studies",
-    description: "Each project is treated as a professional case study, not just a showcase card.",
+    description: "",
   },
   experience: {
     eyebrow: "Career",

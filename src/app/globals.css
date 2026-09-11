@@ -146,7 +146,10 @@ main { overflow: clip; }
 .section-title { margin: 0; font-size: clamp(1.8rem, 4vw, 3rem); line-height: 1.06; letter-spacing: -.04em; text-wrap: balance; }
 .section-description { margin: .9rem 0 0; color: var(--muted); max-width: 700px; }
 .section-header__actions { align-self: flex-start; }
-.page-hero { padding: 4.2rem 0 2.4rem; }
+.page-hero { padding: 4.2rem 0 0.75rem; }
+.page-hero + .section {
+  padding-top: 1rem;
+}
 .page-hero__content { max-width: 900px; }
 .page-title { font-size: clamp(2.4rem, 7vw, 4.9rem); }
 .page-description { margin: 1.3rem 0 0; font-size: 1.05rem; }
