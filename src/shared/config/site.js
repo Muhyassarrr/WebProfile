@@ -19,7 +19,7 @@ export const siteConfig = {
   logo: "/placeholders/icon-placeholder.svg",
   favicon: "/placeholders/favicon-placeholder.svg",
   appleIcon: "/placeholders/apple-icon-placeholder.png",
-  defaultSocialImage: "/image/og.png",
+  defaultSocialImage: "/image/ognew.png",
 
   googleSiteVerification:
     process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
