@@ -228,7 +228,7 @@ const en = {
   about: {
     eyebrow: "About",
     title: "More than a list of technologies.",
-    description: "This page brings together professional story, working approach, engineering principles, experience, education, capabilities, values, current focus, and availability.",
+    description: "",
     story: "Professional Story",
     expertise: "Expertise",
     workingApproach: "Working Approach",
