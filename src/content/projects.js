@@ -3,10 +3,10 @@ export const projects = [
     slug: "prognosis-chronic-lymphocytic-leukemia",
     placeholder: false,
     title: {
-      id: "Prognosis for Chronic Lymphocytic Leukemia",
+      id: "Prognosis pada Leukemia Limfositik Kronis",
       en: "Prognosis for Chronic Lymphocytic Leukemia",
     },
-    shortTitle: { id: "CLL Prognosis", en: "CLL Prognosis" },
+    shortTitle: { id: "LLk Prognosis", en: "CLL Prognosis" },
     year: "2026",
     startDate: "2026-07",
     endDate: "2026-07",
@@ -95,7 +95,7 @@ export const projects = [
   {
     slug: "employee-attendance-system",
     placeholder: false,
-    title: { id: "Employee Attendance System", en: "Employee Attendance System" },
+    title: { id: "Sistem Absensi Karyawan", en: "Employee Attendance System" },
     shortTitle: { id: "Attendance System", en: "Attendance System" },
     year: "2025",
     startDate: "2025-02",
@@ -175,7 +175,7 @@ export const projects = [
     slug: "wiserrapp-swiftlet-farming",
     placeholder: false,
     title: {
-      id: "WiserrApp for Swiftlet Farming",
+      id: "WWiserrApp untuk Budidaya Burung Walet",
       en: "WiserrApp for Swiftlet Farming",
     },
     shortTitle: { id: "WiserrApp", en: "WiserrApp" },
