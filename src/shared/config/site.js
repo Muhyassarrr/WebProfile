@@ -3,7 +3,7 @@ const envSiteUrl = process.env.NEXT_PUBLIC_SITE_URL;
 export const siteConfig = {
   siteName: "Muh. Yassar Nurfajri Dharmawan — Portfolio",
   fullName: "Muh. Yassar Nurfajri Dharmawan",
-  shortName: "Muh. Yassar",
+  shortName: "Muh. Yassar Nurfajri Dharmawan",
   role: "Fullstack Developer | Mobile Developer | Data Analyst",
 
   domain: envSiteUrl || "https://muh-yassar.vercel.app",
@@ -19,7 +19,7 @@ export const siteConfig = {
   logo: "/placeholders/icon-placeholder.svg",
   favicon: "/placeholders/favicon-placeholder.svg",
   appleIcon: "/placeholders/apple-icon-placeholder.png",
-  defaultSocialImage: "/placeholders/og-placeholder.png",
+  defaultSocialImage: "/image/og.png",
 
   googleSiteVerification:
     process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
