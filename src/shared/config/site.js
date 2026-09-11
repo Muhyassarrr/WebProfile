@@ -5,7 +5,7 @@ export const siteConfig = {
   fullName: "Muh. Yassar Nurfajri Dharmawan",
   shortName: "Muh. Yassar Nurfajri Dharmawan",
   role: "Fullstack Developer | Mobile Developer | Data Analyst",
-  domain: envSiteUrl || "https://muh-yassar-portfolio.vercel.app",
+  domain: envSiteUrl || "https://muh-yassar.vercel.app",
   email: "muhyassarnurfajrid@gmail.com",
   location: "Makassar, South Sulawesi, Indonesia",
   github: "https://github.com/Muhyassarrr",
