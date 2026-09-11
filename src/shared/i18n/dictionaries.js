@@ -64,7 +64,7 @@ const id = {
   about: {
     eyebrow: "Tentang",
     title: "Lebih dari sekadar daftar teknologi.",
-    description: "Halaman ini menyatukan cerita profesional, pendekatan kerja, prinsip engineering, pengalaman, pendidikan, kapabilitas, nilai, fokus saat ini, dan ketersediaan.",
+    description: "",
     story: "Cerita Profesional",
     expertise: "Keahlian",
     workingApproach: "Pendekatan Kerja",
