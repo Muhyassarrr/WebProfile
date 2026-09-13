@@ -14,7 +14,7 @@ export const siteConfig = {
   github: "https://github.com/Muhyassarrr",
   linkedin: "https://linkedin.com/in/muhyassarnd",
 
-  resume: "/resume/muh-yassar-nurfajri-dharmawan-resume.pdf",
+  resume: "/resume/CV_Muhyassarrrr.pdf",
 
   logo: "/placeholders/icon-placeholder.svg",
   favicon: "/placeholders/favicon-placeholder.svg",
