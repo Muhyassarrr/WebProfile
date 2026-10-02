@@ -4,7 +4,7 @@ export const siteConfig = {
   siteName: "Muh. Yassar Nurfajri Dharmawan — Portfolio",
   fullName: "Muh. Yassar Nurfajri Dharmawan",
   shortName: "Muh. Yassar Nurfajri Dharmawan",
-  role: "Fullstack Developer | Mobile Developer | Data Analyst",
+  role: "Fullstack Developer | Data Analyst",
 
   domain: envSiteUrl || "https://muh-yassar.vercel.app",
 
@@ -14,7 +14,7 @@ export const siteConfig = {
   github: "https://github.com/Muhyassarrr",
   linkedin: "https://linkedin.com/in/muhyassarnd",
 
-  resume: "/resume/CV_Muhyassarrrr.pdf",
+  resume: "/resume/CV_MUH YASSAR NURFAJRI DHARMAWAN.pdf",
 
   logo: "/placeholders/icon-placeholder.svg",
   favicon: "/placeholders/favicon-placeholder.svg",
