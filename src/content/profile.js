@@ -10,8 +10,8 @@ export const profile = {
       en: "Full-stack web development, mobile development, data analytics, and machine learning.",
     },
     professionalHeadline: {
-      id: "Fullstack Developer | Mobile Developer | Data Analyst",
-      en: "Fullstack Developer | Mobile Developer | Data Analyst",
+      id: "Fullstack Developer | Data Analyst",
+      en: "Fullstack Developer | Data Analyst",
     },
     location: siteConfig.location,
     timezone: null,
