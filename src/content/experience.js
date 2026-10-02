@@ -78,7 +78,7 @@ export const experience = [
   {
     id: "Android-ui/ux-developer-infinite",
     placeholder: false,
-    company: "PT. Winnicode Garuda Teknologi",
+    company: "Infinite Learning",
     companyUrl: null,
     role: { id: "Android Mobile Development & UI/UX Design", en: "Android Mobile Development & UI/UX Design" },
     employmentType: null,
